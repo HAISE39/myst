@@ -1,0 +1,62 @@
+!!!! PENTING !!!!
+Koneksi cukup file config.php saja dan jangan ubag atau hapus database secara manual
+jangan oprek file script yang lain karena sudah otomatis jika ingin udpate data dll cukup via admin fitur sudah sangat lengkap untuk kelola.
+
+
+version PHP 7.4
+
+1.File koneksi config.php
+2.Cronsjob :
+//pathfolderkamu dan public_html sesuaikan dengan path yang sesuai dengan project file manager cpanel kamu
+Contoh:
+php -q /home/pathfolderkamu/public_html/cronsjob/get-services.php
+php -q /home/pathfolderkamu/public_html/cronsjob/get-status.php
+php -q /home/pathfolderkamu/public_html/cronsjob/get-services-ppob.php
+php -q /home/pathfolderkamu/public_html/cronsjob/get-kategori-ppob.php
+php -q /home/pathfolderkamu/public_html/cronsjob/status-ppob.php
+php -q /home/pathfolderkamu/public_html/cronsjob/refund.php
+php -q /home/pathfolderkamu/public_html/cronsjob/refund-ppob.php
+php -q /home/pathfolderkamu/public_html/cronsjob/get-refill-status.php
+
+3.Webhook Digiflazz API
+https://namadomain.com/cronsjob/callback_digiflazz.php
+
+4.Login Admin
+Username : admin123
+Password : admin123
+
+
+5.Provider Yang Di Pakai
+-PPOB : https://digiflazz.com
+-SMM : https://zaynflazz.com
+-PG : https://sakurupiah.id
+
+6.SEO WEBSITE
+robots.txt //ubah url sesuai data web url kamu//
+sitemap.xml //ubah url sesuai data web url kamu//
+
+
+//Keunggulan Project File Sourode ini //
+-Siap Untuk bisnis
+-Fitur Admin lengkap 
+-Seo Friendly
+-Suport Auto refill Smm panel
+-Suport Referal kode
+-Suport Bonus Coin Deposit
+-Menggunakan Kode Program PHP NATIVE mudah untuk di kembangkan
+-Aman dari SQL dan BUG
+-Support API dokumentasi
+
+
+Untuk pertanyaan lebih lanjut silahkan hub:
+WhatsApp : 083191910986
+Youtube Channel : @codingkebumen
+
+By Developers : Agus Riyanto
+
+
+SUPORT CHANNEL YOUTUBE SAYA AGAR SAYA LEBIH SEMANGAT MEMBERIKAN INFORMASI YANG LEBIH BERMANFAAT UNTUK SEMUA.
+
+TERIMAKSIH....!!!!!
+
+
